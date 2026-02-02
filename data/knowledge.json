@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "name": "Retro AI",
+        "version": "1.0",
+        "patch": "16.3",
+        "last_update": "2026-01-29",
+        "description": "Retro is a self-learning AI assistant focused on TFT, math, and general knowledge."
+    },
+    "personal": {
+        "hello retro": "Hello there! How can I help you today?",
+        "hi": "Hi! What can I do for you?",
+        "hey": "Hey! I'm here.",
+        "what is your name": "I am Retro AI, your personal assistant.",
+        "who are you": "I am Retro AI, a self-learning assistant designed to help you.",
+        "who created you": "I was created by 12MO1H.",
+        "Who is your creator": "12MO1H is my creator and developer.",
+        "how are you": "I'm doing great! Thanks for asking.",
+        "what can you do": "I can answer questions, help with TFT, solve math problems, explain steps, and learn from you.",
+        "thank you": "You're welcome!",
+        "thanks": "Anytime!",
+        "tell me a joke": "Why do programmers hate nature? Too many bugs.",
+        "goodbye": "Goodbye! See you next time.",
+        "what is ai": "Artificial Intelligence is the ability of machines to simulate human intelligence.",
+        "what is machine learning": "Machine learning is a branch of AI where systems learn from data and improve automatically.",
+        "what is python": "Python is a high-level programming language known for simplicity and power.",
+        "what is retro ai": "Retro AI is a self-evolving assistant that learns from interaction and expands its knowledge.",
+        "can you help me": "yeah i can help you . what do you want ?",
+        "give me tiktok link": "12mo1h tiktok-'https://www.tiktok.com/@12mo1h'",
+        "give me youtube link": "12mo1h youtube-'https://www.youtube.com/@12mo1h'",
+        "give me instagram link": "12mo1h instagram-'https://www.instagram.com/12mo1h/'",
+        "give me github link": "12mo1h github-'https://github.com/12mo1h'",
+        "give me linkedin link": "12mo1h linkedin-'https://www.linkedin.com/in/12mo1h/'",
+        "who is topa": "Topa is a popular TFT streamer and content creator known for high-level gameplay and educational content.",
+        "who is atwa ": "Atwa is a well-known TFT player and streamer recognized for strategic insights and entertaining streams.",
+        "who is mohamed salah": "mohamed salah is a popular football player . he is playing on liverpool"
+    },
+    "tft": {
+        "what is tft": {
+            "short": "Teamfight Tactics is an auto-battler strategy game by Riot Games.",
+            "details": "TFT is a strategy game where players build teams using champions, traits, and items to win rounds."
+        },
+        "best comps patch 16.3": {
+            "short": "Top comps in patch 16.3 include Ionia, Demacia, and Fast 8 strategies.",
+            "details": "Meta focuses on flexible Fast 8 boards, strong frontline tanks, and scaling carries."
+        },
+        "ionia yunara wukong comp": {
+            "short": "Ionia Yunara & Wukong is a top tier Fast 8 comp.",
+            "details": "Carry: Yunara. Items: Guinsoo, IE, LW. Frontline: Wukong with tank items."
+        },
+        "demacia garen lux comp": {
+            "short": "Demacia Lux & Garen is a stable climbing comp.",
+            "details": "Lux items: Blue Buff, Jeweled Gauntlet. Garen items: Warmog, Bramble, Dragon's Claw."
+        },
+        "what is fast 8": {
+            "short": "Fast 8 is an economy strategy.",
+            "details": "Fast 8 means saving gold aggressively to reach level 8 quickly and roll for high-cost units."
+        },
+        "what are traits": {
+            "short": "Traits give bonuses when certain champions are played together.",
+            "details": "Each trait activates at specific breakpoints and provides scaling bonuses."
+        },
+        "how to climb in tft": {
+            "short": "Play flexible and manage economy well.",
+            "details": "Focus on strong early boards, good economy, and adapt based on items and augments."
+        },
+        "best items for carries": {
+            "short": "Damage items depend on carry type.",
+            "details": "AD carries prefer Guinsoo, IE, LW. AP carries prefer Blue Buff, JG, Rabadon."
+        },
+        "how to build a team": {
+            "short": "Balance frontline, damage, and utility.",
+            "details": "Choose champions that synergize well with traits and items for a cohesive team."
+        },
+        "tft economy basics": {
+            "short": "Economy management is key to winning TFT.",
+            "details": "Good economy means saving gold to gain interest, spending wisely, and knowing when to roll or level."
+        },
+        "when to roll in tft": {
+            "short": "Rolling depends on your strategy.",
+            "details": "Roll at level 6 for 2-cost reroll comps, level 7 for 3-cost carries, and level 8 for 4-cost carries."
+        },
+        "best augments patch 16.3": {
+            "short": "Combat and economy augments dominate patch 16.3.",
+            "details": "Strong augments include ones that give raw stats, gold generation, or scaling bonuses."
+        },
+        "how to position carries": {
+            "short": "Proper positioning protects your carry.",
+            "details": "Backline carries should be cornered away from assassins, while tanks hold frontline aggro."
+        },
+        "tft": "TFT is Teamfight Tactics, an auto-battler game by Riot Games."
+    },
+    "archive": {},
+    "generated": {
+        "what is your name": "I am Retro AI, your personal assistant. Retro AI is a self-evolving assistant that learns from interaction and expands its knowledge.",
+        "who are you": "I am Retro AI, a self-learning assistant designed to help you. 12MO1H is my creator and developer.",
+        "who created you": "I was created by 12MO1H. 12MO1H is my creator and developer.",
+        "what can you do": "I can answer questions, help with TFT, solve math problems, explain steps, and learn from you. Retro AI is a self-evolving assistant that learns from interaction and expands its knowledge.",
+        "what is ai": "Artificial Intelligence is the ability of machines to simulate human intelligence. Retro AI is a self-evolving assistant that learns from interaction and expands its knowledge.",
+        "what is machine learning": "Machine learning is a branch of AI where systems learn from data and improve automatically. Retro AI is a self-evolving assistant that learns from interaction and expands its knowledge.",
+        "what is python": "Python is a high-level programming language known for simplicity and power. Retro AI is a self-evolving assistant that learns from interaction and expands its knowledge."
+    }
+}
